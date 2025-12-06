@@ -25,7 +25,7 @@
 | **批量建站管
 本工具采用 **单文件打包** 模式，无需安装任何 .NET 运行时环境，直接下载运行即可。
 
-* **最新 Release 版本下载：** [点击此处下载最新 `BaoTaApi.exe` 文件] (https://github.com/xiaocaiji61/baota_BT_SSL/releases/download/tag/BaoTaApi.zip
+* **最新 Release 版本下载：** [[点击此处下载最新 `BaoTaApi.exe` 文件] ](https://github.com/xiaocaiji61/baota_BT_SSL/releases/)
 * **文件列表（仅需打包这些）：** `BaoTaApi.exe`，`BaoTaApi.exe.config`，`Newtonsoft.Json.dll` 。
 
 ### 2. 配置要求
